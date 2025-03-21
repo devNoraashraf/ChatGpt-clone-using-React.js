@@ -1,12 +1,25 @@
-# React + Vite
+# ChatGPT Clone using React.js 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple ChatGPT-like web app built with **React.js** and powered by **OpenAI GPT-4o-mini API**. This project replicates the core chat functionality and clean UI similar to ChatGPT.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 💬 Chat interface with user & bot messages
+- 🎨 ChatGPT-like UI with dark theme (TailwindCSS)
+- ⚡ Powered by **OpenAI API (gpt-4o-mini)**
+- 🔄 Loading state for bot typing simulation
+- ❌ Error handling (rate limits, etc.)
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (Vite)
+- TailwindCSS
+- Axios
+- OpenAI API (Chat Completion)
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/devNoraashraf/ChatGpt-clone-using-React.js.git
+cd ChatGpt-clone-using-React.js
